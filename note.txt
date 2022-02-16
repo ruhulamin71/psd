@@ -1,0 +1,77 @@
+color:
+black #000000
+ask  #626262
+psd to html
+    psd
+
+section define - 7
+layout define   
+    full complete
+code comment
+semantic markup
+
+asset gather
+    logo
+    img
+    icon
+    text
+    font
+
+fonts
+    inconsolata regular
+    playfair display regular
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+            font-family: 'Playfair Display', serif;
+
+    ubuntu light
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+            font-family: 'Ubuntu', sans-serif;
+
+css her..
+    font family
+    font size
+    font weight
+    color
+    text transform
+    text-align
+    line-h
+    letter-s
+    word-s
+
+    width
+    height
+
+    margin
+    padding
+
+reusable-blocks
+
+body
+ui ux
+    1.color combination..
+        category
+        logo - color - 2/3
+
+    2.typography
+        fonts - 2/3
+
+    3.consistency
+
+    4.spacing
+
+    button / link /
+
+seo
+    h1-h6
+    p
+    img alt  name
+    strong
+    em 
+    meta
+
+html validation
