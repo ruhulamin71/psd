@@ -172,8 +172,12 @@ h3{
     background-color: transparent;
     /* color: #626262; */
     border: 1px solid #626262;
-    border-right: 1.95px solid;
-    border-top: 1.95px solid;
+    border-left: 2.5px solid;
+    border-top: 2.5px solid;
+    /* border-left: 1.95px solid;
+    border-top: 1.95px solid; */
+    border-bottom: 1px solid;
+    border-right: 1px solid;
     border-radius: 4%;
     transition: 0.3s;
 }
